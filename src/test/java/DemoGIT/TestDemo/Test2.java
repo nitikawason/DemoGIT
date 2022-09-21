@@ -1,0 +1,12 @@
+package DemoGIT.TestDemo;
+
+public class Test2 {
+
+	public static void main(String[] args) 
+	
+{
+System.out.println("Test2");		// TODO Auto-generated method stub
+
+	}
+
+}
